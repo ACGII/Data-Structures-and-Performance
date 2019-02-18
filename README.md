@@ -1,5 +1,7 @@
 # Data-Structures-and-Performance
-## Coursera
+## Coursera Object Oriented Programming in Java
+## Duke University and University of California San Diego
+
 These modules were developed using skeletal programs provided by the UCSD Mooc team.  They are part of the Data Structures and Performance course offered by Cousera.  The development I performed included:
 1.  Working with Java's built-in classes for fundamental data structures including: String, LinkedList, TreeSet, HashSet, and HashMap. 
 2.  Implementing fundamental data structures from scratch including Linked Lists and Tries.
